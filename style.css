@@ -1,0 +1,9 @@
+.content .info .hide {
+    display: none;
+  }
+  .content .info .show {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
